@@ -5,7 +5,12 @@
 
 
 function getViews($page){
-  include("vue/".$page.".php");
+  if(file_exists("vue/".$page.".php")){
+    include("vue/".$page.".php");
+  } else{
+    pageIntrouvable();
+  }
+
 }
 
 
