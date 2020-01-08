@@ -878,6 +878,14 @@ input:required {
       .welcome-slides .owl-next {
         right: 15px; } }
 
+.error_404_slide{
+  height: 100vh !important;
+}
+
+.error_404_slide h2::after{
+  display: none;
+}
+
 .single-welcome-slide {
   position: relative;
   z-index: 2;
