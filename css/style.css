@@ -1188,6 +1188,7 @@ text-shadow: none;
 	.form-reservation input[type=time],
 	.form-reservation input[type=url],
 	.form-reservation input[type=email],
+	.form-reservation input[type=tel],
 	textarea, 
 	select{
 		box-sizing: border-box;
@@ -1210,6 +1211,7 @@ text-shadow: none;
 	.form-reservation input[type=time]:focus,
 	.form-reservation input[type=url]:focus,
 	.form-reservation input[type=email]:focus,
+	.form-reservation input[type=tel]:focus,
 	.form-reservation textarea:focus, 
 	.form-reservation select:focus{
 		-moz-box-shadow: 0 0 8px #88D5E9;

@@ -13,12 +13,7 @@ window.onload = function() {
                 success:function(response)
                 {
                     response = JSON.parse(response);
-                    if(response.isMailSend){
-                        alert("Un mail de confirmation à été envoyé à votre adresse.");
-                    }
-                    else {
-                        alert("Impossible d'envoyer le mail à cette adresse.");
-                    }
+                    alert(response.message);
                 },
                 error:function()
                 {
