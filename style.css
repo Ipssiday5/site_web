@@ -98,6 +98,10 @@ ul {
     margin: 0;
     padding: 0; }
 
+.top-100{
+  top: 100px;
+}
+
 .bg-overlay {
   position: relative;
   z-index: 1; }
@@ -275,7 +279,7 @@ input:required {
   margin-bottom: 15px; }
 
 .mb-30 {
-  margin-bottom: 30px; }
+  margin-bottom: 30px !important; }
 
 .mb-40 {
   margin-bottom: 40px; }
