@@ -16,6 +16,8 @@
     <!-- Stylesheet -->
     <link rel="stylesheet" href="style.css">
 
+    <script type="text/javascript" src="js/jquery.min.js" ></script>
+    <script type="text/javascript" src="reservation.js"></script>
 </head>
 
 <body>
@@ -54,7 +56,7 @@
                                     <ul class="dropdown">
                                         <li><a href="index.html">- Home</a></li>
                                         <li><a href="about.html">- About Us</a></li>
-                                        <li><a href="speakers.html">- Speakears</a></li>
+                                        <li><a href="reservation.html">Reservation</a></li>
                                         <li><a href="schedule.html">- Schedule</a></li>
                                         <li><a href="tickets.html">- Tickets</a></li>
                                         <li><a href="blog.html">- Blog</a></li>
@@ -70,7 +72,7 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="speakers.html">Speakears</a></li>
+                                <li><a href="reservation.html">Reservation</a></li>
                                 <li><a href="blog.html">Blog</a></li>
                                 <li><a href="contact.html">Contact</a></li>
                             </ul>
@@ -92,11 +94,11 @@
             <div class="row h-100 align-items-center">
                 <div class="col-12">
                     <div class="breadcrumb-content">
-                        <h2 class="page-title">spekars</h2>
+                        <h2 class="page-title">Reservation</h2>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
                                 <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">spekars</li>
+                                <li class="breadcrumb-item active" aria-current="page">réservation</li>
                             </ol>
                         </nav>
                     </div>
@@ -110,209 +112,27 @@
     <section class="our-speaker-area section-padding-100">
         <div class="container">
             <div class="row">
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="img/bg-img/4.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Albert Barnes</h5>
-                            <p>Founder</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="img/bg-img/5.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Patricia Stanley</h5>
-                            <p>Product Lead</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="img/bg-img/6.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Evelyn Stone</h5>
-                            <p>Photographer</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="img/bg-img/7.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Evelyn Stone</h5>
-                            <p>Photographer</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="img/bg-img/8.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Susan Hopkins</h5>
-                            <p>UX Manager</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="img/bg-img/9.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Michael Fowler</h5>
-                            <p>Product Design</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="img/bg-img/7.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Evelyn Stone</h5>
-                            <p>Photographer</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="img/bg-img/8.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Susan Hopkins</h5>
-                            <p>UX Manager</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Speaker Area -->
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="single-speaker-area bg-gradient-overlay-2 wow fadeInUp" data-wow-delay="300ms">
-                        <!-- Thumb -->
-                        <div class="speaker-single-thumb">
-                            <img src="img/bg-img/9.jpg" alt="">
-                        </div>
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#"><i class="zmdi zmdi-facebook"></i></a>
-                            <a href="#"><i class="zmdi zmdi-instagram"></i></a>
-                            <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                            <a href="#"><i class="zmdi zmdi-linkedin"></i></a>
-                        </div>
-                        <!-- Info -->
-                        <div class="speaker-info">
-                            <h5>Michael Fowler</h5>
-                            <p>Product Design</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12">
-                    <div class="more-speaker-btn text-center mt-20 wow fadeInUp" data-wow-delay="300ms">
-                        <a class="btn confer-btn" href="#">View All Speaker <i class="zmdi zmdi-long-arrow-right"></i></a>
-                    </div>
-                </div>
+                <h2>Formulaire d'inscription à l'évènement</h2>
+                <form id="test" class="align-form">
+                    <ul class="form-reservation">
+                        <li>
+                            <label>Nom - Prénom<span class="required">*</span></label>
+                            <input type="text" name="nom" class="field-divided" placeholder="Nom" />
+                            <input type="text" name="prenom" class="field-divided" placeholder="Prénom" />
+                        </li>
+                        <li>
+                            <label>Email <span class="required">*</span></label>
+                            <input type="email" name="mail" class="field-long" />
+                        </li>
+                        <li>
+                            <div class="col-12">
+                                <div class="more-speaker-btn text-center mt-20 wow fadeInUp" data-wow-delay="300ms">
+                                    <a id="btnReservation" class="btn confer-btn" href="#">Valider</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </form>
             </div>
         </div>
     </section>
