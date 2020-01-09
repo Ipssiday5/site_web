@@ -2,7 +2,7 @@
 
 function getViews($page)
 {
-    if (file_exists("vue/" . $page . ".php")) {
+    if (file_exists("vue/" . $page . ".php") && $page !== '404') {
         require_once("req/header.php");
         include("vue/" . $page . ".php");
         require_once("req/footer.php");
@@ -18,7 +18,7 @@ function getViews($page)
 
 function pageIntrouvable()
 {
-    include("vue/404.html");
+    include("vue/404.php");
 }
 
 function targetPage()
@@ -53,7 +53,6 @@ function targetPage()
     //     break;
     // }
     return true;
-
 }
 
 ?>
