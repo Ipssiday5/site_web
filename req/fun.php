@@ -1,18 +1,15 @@
 <?php
 
-
-
-
-
 function getViews($page){
   if(file_exists("vue/".$page.".php")){
     include("vue/".$page.".php");
-  } else{
+  } elseif (file_exists("vue/".$page.".html")){
+    include("vue/".$page.".html");
+  } else {
     pageIntrouvable();
   }
 
 }
-
 
 function pageIntrouvable(){
   include("vue/404.php");
