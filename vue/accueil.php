@@ -2,19 +2,15 @@
 <section class="welcome-area">
     <div class="welcome-slides owl-carousel">
         <!-- Single Slide -->
-        <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/1.jpg);">
+        <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/conférenceimage.jpg);">
             <div class="container h-100">
                 <div class="row h-100 align-items-center">
                     <!-- Welcome Text -->
                     <div class="col-12">
                         <div class="welcome-text text-right">
-                            <h2 data-animation="fadeInUp" data-delay="300ms">Science <br>Conference</h2>
-                            <h6 data-animation="fadeInUp" data-delay="500ms">Shangri-La Hotel, Bangkok, Bangkok,
-                                Thailand</h6>
-                            <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
-                                <a href="#" class="btn confer-btn">More Information <i
-                                            class="zmdi zmdi-long-arrow-right"></i></a>
-                            </div>
+                            <h2 data-animation="fadeInUp" data-delay="300ms">IPSSI <br>CONFDAY</h2>
+                            <h6 data-animation="fadeInUp" data-delay="500ms">A Paris</h6>
+                            
                         </div>
                     </div>
                 </div>
@@ -22,26 +18,17 @@
         </div>
 
         <!-- Single Slide -->
-        <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/45.jpg);">
+        <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/conference2.jpg);">
             <div class="container h-100">
                 <div class="row h-100 align-items-center">
                     <!-- Welcome Text -->
                     <div class="col-12">
-                        <div class="welcome-text-two text-center">
-                            <h5 data-animation="fadeInUp" data-delay="100ms">The event consistently</h5>
-                            <h2 data-animation="fadeInUp" data-delay="300ms">OSHA Compliance</h2>
-                            <!-- Event Meta -->
-                            <div class="event-meta" data-animation="fadeInUp" data-delay="500ms">
-                                <a class="event-date" href="#"><i class="zmdi zmdi-account"></i> January 14, 2019</a>
-                                <a class="event-author" href="#"><i class="zmdi zmdi-alarm-check"></i> Laura Green</a>
+                            <div class="welcome-text-two text-center">
+                                
+                                <h2 data-animation="fadeInUp" data-delay="300ms">Nul besoins de connaissances, on vous explique tout !</h2>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
-                                <a href="#" class="btn confer-btn m-2">View more <i
-                                            class="zmdi zmdi-long-arrow-right"></i></a>
-                                <a href="#" class="btn confer-btn m-2">Get Tickets <i
-                                            class="zmdi zmdi-long-arrow-right"></i></a>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -252,7 +239,7 @@
 
             <div class="col-12">
                 <div class="more-speaker-btn text-center mt-20 mb-40 wow fadeInUp" data-wow-delay="300ms">
-                    <a class="btn confer-btn-white" href="#">view all Speaker <i class="zmdi zmdi-long-arrow-right"></i></a>
+                    <a class="btn confer-btn-white" href="#">Voir tout les orateurs <i class="zmdi zmdi-long-arrow-right"></i></a>
                 </div>
             </div>
         </div>
@@ -262,41 +249,27 @@
 
 <!-- Our Schedule Area Start -->
 <section class="our-schedule-area section-padding-100">
-    <div class="container">
-        <div class="row">
-            <!-- Heading -->
-            <div class="col-12">
-                <div class="section-heading-2 text-center wow fadeInUp" data-wow-delay="300ms">
-                    <p>Our Timetable</p>
-                    <h4>Schedule Plan</h4>
+        <div class="container">
+            <div class="row">
+                <!-- Heading -->
+                <div class="col-12">
+                    <div class="section-heading-2 text-center wow fadeInUp" data-wow-delay="300ms">
+                        <h4>L'emploi du temps</h4>
+                    </div>
                 </div>
             </div>
-        </div>
 
-        <div class="row">
-            <div class="col-12">
-                <div class="schedule-tab">
-                    <!-- Nav Tabs -->
-                    <ul class="nav nav-tabs wow fadeInUp" data-wow-delay="300ms" id="conferScheduleTab" role="tablist">
-                        <li class="nav-item">
-                            <a class="nav-link active" id="monday-tab" data-toggle="tab" href="#step-one" role="tab"
-                               aria-controls="step-one" aria-expanded="true">Monday <br>
-                                <span>January 14, 2019</span></a>
-                        </li>
-                        <!-- Nav Item -->
-                        <li class="nav-item">
-                            <a class="nav-link" id="tuesday-tab" data-toggle="tab" href="#step-two" role="tab"
-                               aria-controls="step-two" aria-expanded="true">Tuesday <br> <span>January 15, 2019</span></a>
-                        </li>
-                        <!-- Nav Item -->
-                        <li class="nav-item">
-                            <a class="nav-link" id="wednesday-tab" data-toggle="tab" href="#step-three" role="tab"
-                               aria-controls="step-three" aria-expanded="true">Wednesday <br>
-                                <span>January 16, 2019</span></a>
-                        </li>
-                    </ul>
-                </div>
-
+            <div class="row">
+                <div class="col-12">
+                    <div class="schedule-tab">
+                        
+                            <!-- Nav Item -->
+                            <li class="nav-item">
+                                <a class="nav-link" id="tuesday-tab" data-toggle="tab" role="tab" aria-controls="step-two" aria-expanded="true">Jeudi<br> <span>25 juin 2020</span></a>
+                            </li>
+                            
+                        </ul>
+                    </div>
                 <!-- Tab Content -->
                 <div class="tab-content" id="conferScheduleTabContent">
                     <div class="tab-pane fade show active" id="step-one" role="tabpanel" aria-labelledby="monday-tab">
@@ -305,8 +278,7 @@
                             <div class="row">
                                 <div class="col-12">
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
-                                         data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -315,23 +287,20 @@
                                             </div>
                                             <!-- Single Schedule Info -->
                                             <div class="single-schedule-info">
-                                                <h6>Dealing with Difficult People</h6>
+                                                <h6>conference / Orateur 1</h6>
                                                 <p>by <span>Gary Armstrong</span> / Ceo of Confer</p>
                                             </div>
                                         </div>
                                         <!-- Single Schedule Info -->
                                         <div class="schedule-time-place">
-                                            <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                            <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
+                                            <p><i class="zmdi zmdi-time"></i> METTRE HEURE</p>
+                                            <p><i class="zmdi zmdi-map"></i> METTRE SALLE</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i
-                                                    class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">Qui est-ce ? <i class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
-
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
-                                         data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -340,23 +309,20 @@
                                             </div>
                                             <!-- Single Schedule Info -->
                                             <div class="single-schedule-info">
-                                                <h6>Crop Insurance Conference</h6>
+                                                <h6>conference / Orateur 1</h6>
                                                 <p>by <span>Amanda Hudson</span> / Ceo of Confer</p>
                                             </div>
                                         </div>
                                         <!-- Single Schedule Info -->
                                         <div class="schedule-time-place">
-                                            <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                            <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
+                                            <p><i class="zmdi zmdi-time"></i> METTRE HEURE</p>
+                                            <p><i class="zmdi zmdi-map"></i> METTRE SALLE</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i
-                                                    class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">Qui est-ce ? <i class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
-
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
-                                         data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -365,23 +331,20 @@
                                             </div>
                                             <!-- Single Schedule Info -->
                                             <div class="single-schedule-info">
-                                                <h6>Capdm Executive Conference</h6>
+                                                <h6>conference / Orateur 1</h6>
                                                 <p>by <span>Martha Burke</span> / Ceo of Confer</p>
                                             </div>
                                         </div>
                                         <!-- Single Schedule Info -->
                                         <div class="schedule-time-place">
-                                            <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                            <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
+                                            <p><i class="zmdi zmdi-time"></i> METTRE HEURE</p>
+                                            <p><i class="zmdi zmdi-map"></i> METTRE SALLE</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i
-                                                    class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">Qui est-ce ? <i class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
-
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
-                                         data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -390,40 +353,36 @@
                                             </div>
                                             <!-- Single Schedule Info -->
                                             <div class="single-schedule-info">
-                                                <h6>Street Food Convention</h6>
+                                                <h6>conference / Orateur 1</h6>
                                                 <p>by <span>Jeffrey Morales</span> / Ceo of Confer</p>
                                             </div>
                                         </div>
                                         <!-- Single Schedule Info -->
                                         <div class="schedule-time-place">
-                                            <p><i class="zmdi zmdi-time"></i> 12-14 Jan 2019</p>
-                                            <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
+                                            <p><i class="zmdi zmdi-time"></i> METTRE HEURE</p>
+                                            <p><i class="zmdi zmdi-map"></i> METTRE SALLE</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i
-                                                    class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">Qui est-ce ? <i class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
                                 </div>
-
                                 <!-- More Schedule Btn -->
                                 <div class="col-12">
-                                    <div class="more-schedule-btn text-center mt-50 wow fadeInUp"
-                                         data-wow-delay="300ms">
-                                        <a href="#" class="btn confer-gb-btn">Dowload schedule (Pdf)</a>
+                                    <div class="more-schedule-btn text-center mt-50 wow fadeInUp" data-wow-delay="300ms">
+                                        <a href="img/ConfdayPlaning.png" download class="btn confer-gb-btn">Télécharger l'emploi du temps</a>
+                                        
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="tab-pane fade" id="step-two" role="tabpanel" aria-labelledby="tuesday-tab">
                         <!-- Single Tab Content -->
                         <div class="single-tab-content">
                             <div class="row">
                                 <div class="col-12">
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
-                                         data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -442,13 +401,10 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i
-                                                    class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
-
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
-                                         data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -467,13 +423,10 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i
-                                                    class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
-
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
-                                         data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -492,22 +445,18 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i
-                                                    class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
                                 </div>
-
                                 <!-- More Schedule Btn -->
                                 <div class="col-12">
-                                    <div class="more-schedule-btn text-center mt-50 wow fadeInUp"
-                                         data-wow-delay="300ms">
+                                    <div class="more-schedule-btn text-center mt-50 wow fadeInUp" data-wow-delay="300ms">
                                         <a href="#" class="btn confer-gb-btn">Dowload schedule (Pdf)</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="tab-pane fade" id="step-three" role="tabpanel" aria-labelledby="wednesday-tab">
                         <!-- Single Tab Content -->
                         <div class="single-tab-content">
@@ -582,77 +531,73 @@
 <!-- Our Schedule Area End -->
 
 <!-- Our Ticket Pricing Table Area Start -->
-<section class="our-ticket-pricing-table-area bg-img bg-gradient-overlay section-padding-100-0 jarallax"
-         style="background-image: url(img/bg-img/14.jpg);">
-    <div class="container">
-        <div class="row">
-            <!-- Heading -->
-            <div class="col-12">
-                <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                    <h4>Choisi ton ticket !</h4>
+<section class="our-ticket-pricing-table-area bg-img bg-gradient-overlay section-padding-100-0 jarallax" style="background-image: url(img/bg-img/14.jpg);">
+        <div class="container">
+            <div class="row">
+                <!-- Heading -->
+                <div class="col-12">
+                    <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
+                        <h4>Choisi ton ticket !</h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <!-- Single Ticket Pricing Table -->
+                <div class="col-12 col-lg-4">
+                    <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
+                        <h6 class="ticket-plan">Ticket visiteur</h6>
+                        <!-- Ticket Icon -->
+                        <div class="ticket-icon">
+                            <img src="img/core-img/p1.png" alt="">
+                        </div>
+                        <h2 class="ticket-price">8 €</h2>
+                        <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <!-- Ticket Pricing Table Details -->
+                        <div class="ticket-pricing-table-details">
+                            <p><i class="zmdi zmdi-check"></i> Accès complet</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Ticket Pricing Table -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-ticket-pricing-table active text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
+                        <h6 class="ticket-plan">Ticket étudiant IPSSI</h6>
+                        <!-- Ticket Icon -->
+                        <div class="ticket-icon">
+                            <img src="img/core-img/p2.png" alt="">
+                        </div>
+                        <h2 class="ticket-price">GRATUIT</h2>
+                        <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <!-- Ticket Pricing Table Details -->
+                        <div class="ticket-pricing-table-details">
+                            <p><i class="zmdi zmdi-check"></i> Accès complet</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Single Ticket Pricing Table -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
+                        <h6 class="ticket-plan">Ticket étudiants</h6>
+                        <!-- Ticket Icon -->
+                        <div class="ticket-icon">
+                            <img src="img/core-img/p3.png" alt="">
+                        </div>
+                        <h2 class="ticket-price">5 €</h2>
+                        <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <!-- Ticket Pricing Table Details -->
+                        <div class="ticket-pricing-table-details">
+                            <p><i class="zmdi zmdi-check"></i> Accès complet</p>
+                           
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-
-        <div class="row">
-            <!-- Single Ticket Pricing Table -->
-            <div class="col-12 col-lg-4">
-                <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                    <h6 class="ticket-plan">Ticket visiteur</h6>
-                    <!-- Ticket Icon -->
-                    <div class="ticket-icon">
-                        <img src="img/core-img/p1.png" alt="">
-                    </div>
-                    <h2 class="ticket-price">8 €</h2>
-                    <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i
-                                class="zmdi zmdi-long-arrow-right"></i></a>
-                    <!-- Ticket Pricing Table Details -->
-                    <div class="ticket-pricing-table-details">
-                        <p><i class="zmdi zmdi-check"></i> Accès complet</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Single Ticket Pricing Table -->
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="single-ticket-pricing-table active text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                    <h6 class="ticket-plan">Ticket étudiant IPSSI</h6>
-                    <!-- Ticket Icon -->
-                    <div class="ticket-icon">
-                        <img src="img/core-img/p2.png" alt="">
-                    </div>
-                    <h2 class="ticket-price">GRATUIT</h2>
-                    <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i
-                                class="zmdi zmdi-long-arrow-right"></i></a>
-                    <!-- Ticket Pricing Table Details -->
-                    <div class="ticket-pricing-table-details">
-                        <p><i class="zmdi zmdi-check"></i> Accès complet</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Single Ticket Pricing Table -->
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                    <h6 class="ticket-plan">Ticket étudiants</h6>
-                    <!-- Ticket Icon -->
-                    <div class="ticket-icon">
-                        <img src="img/core-img/p3.png" alt="">
-                    </div>
-                    <h2 class="ticket-price">5 €</h2>
-                    <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i
-                                class="zmdi zmdi-long-arrow-right"></i></a>
-                    <!-- Ticket Pricing Table Details -->
-                    <div class="ticket-pricing-table-details">
-                        <p><i class="zmdi zmdi-check"></i> Accès complet</p>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Our Ticket Pricing Table Area End -->
+    </section>
+    <!-- Our Ticket Pricing Table Area End -->
 
 <!-- Our Sponsor And Client Area Start -->
 <section class="our-sponsor-client-area section-padding-100">
