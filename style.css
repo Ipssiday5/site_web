@@ -1381,6 +1381,9 @@ input:required {
 .our-speaker-area {
   position: relative;
   z-index: 1; }
+  .our-speaker-area h4{
+    color: #0179BF;
+  }
   .our-speaker-area .row {
     margin-left: -20px;
     margin-right: -20px; }
@@ -2683,10 +2686,10 @@ input:required {
   color: black;
   margin-bottom: 30px; }
 
-.contact_input_area .form-group .form-control {
+.contact_input_area .form-group .form-control, .our-speaker-area .form-group .form-control {
   border-bottom: 1px solid #dbdcf1;
   color: #9293bc; }
-  .contact_input_area .form-group .form-control:active, .contact_input_area .form-group .form-control:focus {
+  .contact_input_area .form-group .form-control:active, .contact_input_area .form-group .form-control:focus, .our-speaker-area .form-group .form-control:active, .our-speaker-area .form-group .form-control:focus {
     border-bottom-color: #5d5e8d; }
 .contact_input_area .form-group textarea.form-control {
   height: 70px; }
