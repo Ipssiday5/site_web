@@ -33,7 +33,7 @@
                 <nav class="classy-navbar justify-content-between" id="conferNav">
 
                     <!-- Logo -->
-                    <a class="nav-brand" href="./index.php?go=accueil"><img src="./img/core-img/logo.png" alt=""></a>
+                    <a class="nav-brand" href="./index.php?go=accueil"><img src="./img/bg-img/logo.png" alt="" width="100px"></a>
 
                     <!-- Navbar Toggler -->
                     <div class="classy-navbar-toggler">
