@@ -1,5 +1,4 @@
 <?php
-require_once("req/header.php");
 require_once("req/fun.php");
 
 function start(){
@@ -11,7 +10,3 @@ function start(){
 }
 
 start();
-
-require_once("req/footer.php");
-
- ?>
