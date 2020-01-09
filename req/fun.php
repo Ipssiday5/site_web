@@ -11,14 +11,13 @@ function getViews($page)
         include("vue/" . $page . ".html");
         require_once("req/footer.php");
     } else {
-        pageIntrouvable();
+      pageIntrouvable();
     }
-
 }
 
 function pageIntrouvable()
 {
-    include("vue/404.html");
+    getViews("404");
 }
 
 function targetPage()
