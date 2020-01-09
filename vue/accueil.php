@@ -9,9 +9,11 @@
                     <div class="col-12">
                         <div class="welcome-text text-right">
                             <h2 data-animation="fadeInUp" data-delay="300ms">Science <br>Conference</h2>
-                            <h6 data-animation="fadeInUp" data-delay="500ms">Shangri-La Hotel, Bangkok, Bangkok, Thailand</h6>
+                            <h6 data-animation="fadeInUp" data-delay="500ms">Shangri-La Hotel, Bangkok, Bangkok,
+                                Thailand</h6>
                             <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
-                                <a href="#" class="btn confer-btn">More Information <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                <a href="#" class="btn confer-btn">More Information <i
+                                            class="zmdi zmdi-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -34,8 +36,10 @@
                                 <a class="event-author" href="#"><i class="zmdi zmdi-alarm-check"></i> Laura Green</a>
                             </div>
                             <div class="hero-btn-group" data-animation="fadeInUp" data-delay="700ms">
-                                <a href="#" class="btn confer-btn m-2">View more <i class="zmdi zmdi-long-arrow-right"></i></a>
-                                <a href="#" class="btn confer-btn m-2">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                <a href="#" class="btn confer-btn m-2">View more <i
+                                            class="zmdi zmdi-long-arrow-right"></i></a>
+                                <a href="#" class="btn confer-btn m-2">Get Tickets <i
+                                            class="zmdi zmdi-long-arrow-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -56,17 +60,21 @@
             <!-- About Content -->
             <div class="col-12 col-md-6">
                 <div class="about-content-text mb-80">
-                    <h6 class="wow fadeInUp" data-wow-delay="300ms">About Conference</h6>
-                    <h3 class="wow fadeInUp" data-wow-delay="300ms">Welcome to the Project Management</h3>
-                    <p class="wow fadeInUp" data-wow-delay="300ms">The Project Management is a platform to learn expert techniques for building successful project teams, creating efficient plans and implementing effective tracking measures to ensure your projects come in on deadline and on budget. In one fast-paced, well-designed day, we’ll cover all the essential elements of project management.</p>
-                    <a href="#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Interested <i class="zmdi zmdi-long-arrow-right"></i></a>
+                    <h6 class="wow fadeInUp" data-wow-delay="300ms">A propos de la conférence</h6>
+                    <h3 class="wow fadeInUp" data-wow-delay="300ms">L'IPSSI-CONFDAY</h3>
+                    <p class="wow fadeInUp" data-wow-delay="300ms">Bienvenu à toi ! Si tu es partant(e) pour une
+                        conférence sur les nouvelles techno' , celle-ci est faite pour toi. L'IPSSI-CONFDAY est un Event
+                        parlant du machine learning ! Tu pourra y trouver des passionnés sur le sujet ainsi que
+                        plusieurs intervants qui pourront te partager leurs connaissances et conseils.</p>
+                    <a href="#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Intéressé ? <i
+                                class="zmdi zmdi-long-arrow-right"></i></a>
                 </div>
             </div>
 
             <!-- About Thumb -->
             <div class="col-12 col-md-6">
                 <div class="about-thumb mb-80 wow fadeInUp" data-wow-delay="300ms">
-                    <img src="img/bg-img/2.png" alt="">
+                    <img src="img/bg-img/ipssilogo.png" width="300px" alt="">
                 </div>
             </div>
         </div>
@@ -79,8 +87,8 @@
                 <div class="col-12 col-md-3">
                     <!-- Countdown Text -->
                     <div class="countdown-content-text mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6>Conference Date</h6>
-                        <h4>Count Every Second Until the Event</h4>
+
+                        <h4>La conférence commence dans</h4>
                     </div>
                 </div>
 
@@ -96,14 +104,15 @@
 <!-- About Us And Countdown Area End -->
 
 <!-- Our Speakings Area Start -->
-<section class="our-speaker-area bg-img bg-gradient-overlay section-padding-100-60" style="background-image: url(img/bg-img/3.jpg);">
+<section class="our-speaker-area bg-img bg-gradient-overlay section-padding-100-60"
+         style="background-image: url(img/bg-img/3.jpg);">
     <div class="container">
         <div class="row">
             <!-- Heading -->
             <div class="col-12">
                 <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                    <p>Our Speakings</p>
-                    <h4>Who’s speaking</h4>
+
+                    <h4>Nos intervenants</h4>
                 </div>
             </div>
         </div>
@@ -270,15 +279,20 @@
                     <!-- Nav Tabs -->
                     <ul class="nav nav-tabs wow fadeInUp" data-wow-delay="300ms" id="conferScheduleTab" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" id="monday-tab" data-toggle="tab" href="#step-one" role="tab" aria-controls="step-one" aria-expanded="true">Monday <br> <span>January 14, 2019</span></a>
+                            <a class="nav-link active" id="monday-tab" data-toggle="tab" href="#step-one" role="tab"
+                               aria-controls="step-one" aria-expanded="true">Monday <br>
+                                <span>January 14, 2019</span></a>
                         </li>
                         <!-- Nav Item -->
                         <li class="nav-item">
-                            <a class="nav-link" id="tuesday-tab" data-toggle="tab" href="#step-two" role="tab" aria-controls="step-two" aria-expanded="true">Tuesday <br> <span>January 15, 2019</span></a>
+                            <a class="nav-link" id="tuesday-tab" data-toggle="tab" href="#step-two" role="tab"
+                               aria-controls="step-two" aria-expanded="true">Tuesday <br> <span>January 15, 2019</span></a>
                         </li>
                         <!-- Nav Item -->
                         <li class="nav-item">
-                            <a class="nav-link" id="wednesday-tab" data-toggle="tab" href="#step-three" role="tab" aria-controls="step-three" aria-expanded="true">Wednesday <br> <span>January 16, 2019</span></a>
+                            <a class="nav-link" id="wednesday-tab" data-toggle="tab" href="#step-three" role="tab"
+                               aria-controls="step-three" aria-expanded="true">Wednesday <br>
+                                <span>January 16, 2019</span></a>
                         </li>
                     </ul>
                 </div>
@@ -291,7 +305,8 @@
                             <div class="row">
                                 <div class="col-12">
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -310,11 +325,13 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i
+                                                    class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
 
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -333,11 +350,13 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i
+                                                    class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
 
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -356,11 +375,13 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i
+                                                    class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
 
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -379,13 +400,15 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i
+                                                    class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
                                 </div>
 
                                 <!-- More Schedule Btn -->
                                 <div class="col-12">
-                                    <div class="more-schedule-btn text-center mt-50 wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="more-schedule-btn text-center mt-50 wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <a href="#" class="btn confer-gb-btn">Dowload schedule (Pdf)</a>
                                     </div>
                                 </div>
@@ -399,7 +422,8 @@
                             <div class="row">
                                 <div class="col-12">
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -418,11 +442,13 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i
+                                                    class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
 
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -441,11 +467,13 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i
+                                                    class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
 
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -464,13 +492,15 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i
+                                                    class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
                                 </div>
 
                                 <!-- More Schedule Btn -->
                                 <div class="col-12">
-                                    <div class="more-schedule-btn text-center mt-50 wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="more-schedule-btn text-center mt-50 wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <a href="#" class="btn confer-gb-btn">Dowload schedule (Pdf)</a>
                                     </div>
                                 </div>
@@ -484,7 +514,8 @@
                             <div class="row">
                                 <div class="col-12">
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -503,11 +534,13 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i
+                                                    class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
 
                                     <!-- Single Schedule Area -->
-                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="single-schedule-area d-flex flex-wrap justify-content-between align-items-center wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <!-- Single Schedule Thumb and Info -->
                                         <div class="single-schedule-tumb-info d-flex align-items-center">
                                             <!-- Single Schedule Thumb -->
@@ -526,13 +559,15 @@
                                             <p><i class="zmdi zmdi-map"></i> Mountain Resort, Phoenix, USA</p>
                                         </div>
                                         <!-- Schedule Btn -->
-                                        <a href="#" class="btn confer-btn">View More <i class="zmdi zmdi-long-arrow-right"></i></a>
+                                        <a href="#" class="btn confer-btn">View More <i
+                                                    class="zmdi zmdi-long-arrow-right"></i></a>
                                     </div>
                                 </div>
 
                                 <!-- More Schedule Btn -->
                                 <div class="col-12">
-                                    <div class="more-schedule-btn text-center mt-50 wow fadeInUp" data-wow-delay="300ms">
+                                    <div class="more-schedule-btn text-center mt-50 wow fadeInUp"
+                                         data-wow-delay="300ms">
                                         <a href="#" class="btn confer-gb-btn">Dowload schedule (Pdf)</a>
                                     </div>
                                 </div>
@@ -547,14 +582,14 @@
 <!-- Our Schedule Area End -->
 
 <!-- Our Ticket Pricing Table Area Start -->
-<section class="our-ticket-pricing-table-area bg-img bg-gradient-overlay section-padding-100-0 jarallax" style="background-image: url(img/bg-img/14.jpg);">
+<section class="our-ticket-pricing-table-area bg-img bg-gradient-overlay section-padding-100-0 jarallax"
+         style="background-image: url(img/bg-img/14.jpg);">
     <div class="container">
         <div class="row">
             <!-- Heading -->
             <div class="col-12">
                 <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                    <p>Choose a Ticket</p>
-                    <h4>Ticket Pricing</h4>
+                    <h4>Choisi ton ticket !</h4>
                 </div>
             </div>
         </div>
@@ -563,20 +598,17 @@
             <!-- Single Ticket Pricing Table -->
             <div class="col-12 col-lg-4">
                 <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                    <h6 class="ticket-plan">1 day pass</h6>
+                    <h6 class="ticket-plan">Ticket visiteur</h6>
                     <!-- Ticket Icon -->
                     <div class="ticket-icon">
                         <img src="img/core-img/p1.png" alt="">
                     </div>
-                    <h2 class="ticket-price"><span>$</span>59</h2>
-                    <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+                    <h2 class="ticket-price">8 €</h2>
+                    <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i
+                                class="zmdi zmdi-long-arrow-right"></i></a>
                     <!-- Ticket Pricing Table Details -->
                     <div class="ticket-pricing-table-details">
-                        <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                        <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                        <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                        <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                        <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
+                        <p><i class="zmdi zmdi-check"></i> Accès complet</p>
                     </div>
                 </div>
             </div>
@@ -584,20 +616,17 @@
             <!-- Single Ticket Pricing Table -->
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="single-ticket-pricing-table active text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                    <h6 class="ticket-plan">Full pass</h6>
+                    <h6 class="ticket-plan">Ticket étudiant IPSSI</h6>
                     <!-- Ticket Icon -->
                     <div class="ticket-icon">
                         <img src="img/core-img/p2.png" alt="">
                     </div>
-                    <h2 class="ticket-price"><span>$</span>99</h2>
-                    <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+                    <h2 class="ticket-price">GRATUIT</h2>
+                    <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i
+                                class="zmdi zmdi-long-arrow-right"></i></a>
                     <!-- Ticket Pricing Table Details -->
                     <div class="ticket-pricing-table-details">
-                        <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                        <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                        <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                        <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                        <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
+                        <p><i class="zmdi zmdi-check"></i> Accès complet</p>
                     </div>
                 </div>
             </div>
@@ -605,20 +634,18 @@
             <!-- Single Ticket Pricing Table -->
             <div class="col-12 col-md-6 col-lg-4">
                 <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                    <h6 class="ticket-plan">Group pass</h6>
+                    <h6 class="ticket-plan">Ticket étudiants</h6>
                     <!-- Ticket Icon -->
                     <div class="ticket-icon">
                         <img src="img/core-img/p3.png" alt="">
                     </div>
-                    <h2 class="ticket-price"><span>$</span>199</h2>
-                    <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
+                    <h2 class="ticket-price">5 €</h2>
+                    <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i
+                                class="zmdi zmdi-long-arrow-right"></i></a>
                     <!-- Ticket Pricing Table Details -->
                     <div class="ticket-pricing-table-details">
-                        <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                        <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                        <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                        <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                        <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
+                        <p><i class="zmdi zmdi-check"></i> Accès complet</p>
+
                     </div>
                 </div>
             </div>
@@ -678,100 +705,21 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Our client area -->
-            <div class="col-12">
-                <div class="our-client-area mt-100 wow fadeInUp" data-wow-delay="300ms">
-                    <!-- client Slider -->
-                    <div class="client-area owl-carousel">
-                        <!-- Single client Slider -->
-                        <div class="single-client-content">
-                            <!-- Single client Text -->
-                            <div class="single-client-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-                                <!-- Single client Thumb and info -->
-                                <div class="single-client-thumb-info d-flex align-items-center">
-                                    <!-- Single client Thumb -->
-                                    <div class="single-client-thumb">
-                                        <img src="img/bg-img/15.jpg" alt="">
-                                    </div>
-                                    <!-- Single client Info -->
-                                    <div class="client-info">
-                                        <h6>Maria Hernandez</h6>
-                                        <p>UX Manager</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single client Icon -->
-                            <div class="client-icon">
-                                <i class="zmdi zmdi-quote"></i>
-                            </div>
-                        </div>
-
-                        <!-- Single client Slider -->
-                        <div class="single-client-content">
-                            <!-- Single client Text -->
-                            <div class="single-client-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-                                <!-- Single client Thumb and info -->
-                                <div class="single-client-thumb-info d-flex align-items-center">
-                                    <!-- Single client Thumb -->
-                                    <div class="single-client-thumb">
-                                        <img src="img/bg-img/16.jpg" alt="">
-                                    </div>
-                                    <!-- Single client Info -->
-                                    <div class="client-info">
-                                        <h6>Jacqueline Myers</h6>
-                                        <p>UX Manager</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single client Icon -->
-                            <div class="client-icon">
-                                <i class="zmdi zmdi-quote"></i>
-                            </div>
-                        </div>
-
-                        <!-- Single client Slider -->
-                        <div class="single-client-content">
-                            <!-- Single client Text -->
-                            <div class="single-client-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-                                <!-- Single client Thumb and info -->
-                                <div class="single-client-thumb-info d-flex align-items-center">
-                                    <!-- Single client Thumb -->
-                                    <div class="single-client-thumb">
-                                        <img src="img/bg-img/15.jpg" alt="">
-                                    </div>
-                                    <!-- Single client Info -->
-                                    <div class="client-info">
-                                        <h6>Maria Hernandez</h6>
-                                        <p>UX Manager</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single client Icon -->
-                            <div class="client-icon">
-                                <i class="zmdi zmdi-quote"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </section>
 <!-- Our Sponsor And Client Area End -->
 
 <!-- Our Blog Area Start -->
-<section class="our-blog-area bg-img bg-gradient-overlay section-padding-100-60" style="background-image: url(img/bg-img/17.jpg);">
+<section class="our-blog-area bg-img bg-gradient-overlay section-padding-100-60"
+         style="background-image: url(img/bg-img/groupe.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <!-- Heading -->
                 <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                    <p>Our Blog</p>
-                    <h4>Latest news</h4>
+
+                    <h4>Site créé en collaboration avec l'école ipssi et ses étudiants</h4>
                 </div>
             </div>
 
@@ -780,41 +728,18 @@
                 <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
                     <!-- Single blog Thumb -->
                     <div class="single-blog-thumb">
-                        <img src="img/bg-img/18.jpg" alt="">
+                        <img src="img/bg-img/DEVS.jpg" alt="">
                     </div>
                     <div class="single-blog-text text-center">
-                        <a class="blog-title" href="#">Street Food Convention</a>
+                        <a class="blog-title" href="#">Développeurs</a>
                         <!-- Post Meta -->
                         <div class="post-meta">
-                            <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i> January 14, 2019</a>
-                            <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Chin-Hung</a>
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Abdou</a>
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Nour</a>
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Louis</a>
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Adrien</a>
                         </div>
-                        <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
-                    </div>
-                    <div class="blog-btn">
-                        <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Single Blog Area -->
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
-                    <!-- Single blog Thumb -->
-                    <div class="single-blog-thumb">
-                        <img src="img/bg-img/19.jpg" alt="">
-                    </div>
-                    <div class="single-blog-text text-center">
-                        <a class="blog-title" href="#">Tedx Moscow Conference</a>
-                        <!-- Post Meta -->
-                        <div class="post-meta">
-                            <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
-                            <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
-                        </div>
-                        <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
-                    </div>
-                    <div class="blog-btn">
-                        <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -824,19 +749,37 @@
                 <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
                     <!-- Single blog Thumb -->
                     <div class="single-blog-thumb">
-                        <img src="img/bg-img/20.jpg" alt="">
+                        <img src="img/bg-img/DEVOPS.png" alt="">
                     </div>
                     <div class="single-blog-text text-center">
-                        <a class="blog-title" href="#">Los Angeles Institute</a>
+                        <a class="blog-title" href="#">DevOps</a>
                         <!-- Post Meta -->
                         <div class="post-meta">
-                            <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
-                            <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Thomas</a>
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Lenny</a>
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Vincent</a>
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Guillaume</a>
                         </div>
-                        <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
                     </div>
-                    <div class="blog-btn">
-                        <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
+                </div>
+            </div>
+
+            <!-- Single Blog Area -->
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
+                    <!-- Single blog Thumb -->
+                    <div class="single-blog-thumb">
+                        <img src="img/bg-img/DM.jpg" alt="">
+                    </div>
+                    <div class="single-blog-text text-center">
+                        <a class="blog-title" href="#">Digital Marketing</a>
+                        <!-- Post Meta -->
+                        <div class="post-meta">
+
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Elodie</a>
+                            <a class="post-author" href="#"><i class="zmdi zmdi-chevron-right"></i>Chloé</a>
+                        </div>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -845,95 +788,3 @@
     </div>
 </section>
 <!-- Our Blog Area End -->
-
-<!-- Contact Area Start -->
-<section class="contact-our-area section-padding-100-0">
-    <div class="container">
-        <div class="row">
-            <!-- Heading -->
-            <div class="col-12">
-                <div class="section-heading-2 text-center wow fadeInUp" data-wow-delay="300ms">
-                    <p>Have Question?</p>
-                    <h4>Contact us</h4>
-                </div>
-            </div>
-        </div>
-
-        <div class="row justify-content-between">
-            <div class="col-12 col-sm-3">
-                <div class="contact-information mb-100">
-                    <!-- Single Contact Info -->
-                    <div class="single-contact-info wow fadeInUp" data-wow-delay="300ms">
-                        <p>Address:</p>
-                        <h6>184 Main Collins Street</h6>
-                    </div>
-                    <!-- Single Contact Info -->
-                    <div class="single-contact-info wow fadeInUp" data-wow-delay="300ms">
-                        <p>Phone:</p>
-                        <h6>(226) 446 9371</h6>
-                    </div>
-                    <!-- Single Contact Info -->
-                    <div class="single-contact-info wow fadeInUp" data-wow-delay="300ms">
-                        <p>Email:</p>
-                        <h6>confer@gmail.com</h6>
-                    </div>
-                    <!-- Single Contact Info -->
-                    <div class="single-contact-info wow fadeInUp" data-wow-delay="300ms">
-                        <p>Website:</p>
-                        <h6>www.confer.com</h6>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-sm-8">
-                <!-- Contact Form -->
-                <div class="contact_from_area mb-100 clearfix wow fadeInUp" data-wow-delay="300ms">
-                    <div class="contact_form">
-                        <form action="mail.php" method="post" id="main_contact_form">
-                            <div class="contact_input_area">
-                                <div id="success_fail_info"></div>
-                                <div class="row">
-                                    <!-- Form Group -->
-                                    <div class="col-12 col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" class="form-control mb-30" name="name" id="name" placeholder="Your Name">
-                                        </div>
-                                    </div>
-                                    <!-- Form Group -->
-                                    <div class="col-12 col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" class="form-control mb-30" name="name" id="name2" placeholder="Last Name">
-                                        </div>
-                                    </div>
-                                    <!-- Form Group -->
-                                    <div class="col-12 col-lg-6">
-                                        <div class="form-group">
-                                            <input type="email" class="form-control mb-30" name="email" id="email" placeholder="E-mail">
-                                        </div>
-                                    </div>
-                                    <!-- Form Group -->
-                                    <div class="col-12 col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" class="form-control mb-30" name="subject" id="subject" placeholder="Your Number">
-                                        </div>
-                                    </div>
-                                    <!-- Form Group -->
-                                    <div class="col-12">
-                                        <div class="form-group">
-                                            <textarea name="message" class="form-control mb-30" id="message" cols="30" rows="6" placeholder="Your Message *"></textarea>
-                                        </div>
-                                    </div>
-                                    <!-- Button -->
-                                    <div class="col-12">
-                                        <button type="submit" class="btn confer-btn">Send Message <i class="zmdi zmdi-long-arrow-right"></i></button>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Contact Area End -->
