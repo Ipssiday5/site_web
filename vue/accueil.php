@@ -2,14 +2,14 @@
 <section class="welcome-area">
     <div class="welcome-slides owl-carousel">
         <!-- Single Slide -->
-        <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/conférenceimage.jpg);">
+        <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/index_1.jpg);">
             <div class="container h-100">
                 <div class="row h-100 align-items-center">
                     <!-- Welcome Text -->
                     <div class="col-12">
-                        <div class="welcome-text text-right">
+                        <div class="welcome-text text-right" style="width: 90%;">
                             <h2 data-animation="fadeInUp" data-delay="300ms">IPSSI <br>CONFDAY</h2>
-                            <h6 data-animation="fadeInUp" data-delay="500ms">A Paris</h6>
+                            <h6 data-animation="fadeInUp" data-delay="500ms">Paris, 12ème arrondissement</h6>
                             
                         </div>
                     </div>
@@ -18,14 +18,14 @@
         </div>
 
         <!-- Single Slide -->
-        <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/conference2.jpg);">
+        <div class="single-welcome-slide bg-img bg-overlay jarallax" style="background-image: url(img/bg-img/index_2.jpg);">
             <div class="container h-100">
                 <div class="row h-100 align-items-center">
                     <!-- Welcome Text -->
                     <div class="col-12">
-                            <div class="welcome-text-two text-center">
+                            <div class="welcome-text-two text-center w-75 m-auto">
                                 
-                                <h2 data-animation="fadeInUp" data-delay="300ms">Nul besoins de connaissances, on vous explique tout !</h2>
+                                <h5 data-animation="fadeInUp" data-delay="300ms">Nul besoins de connaissances, on vous explique tout !</h5>
                                     </div>
                                 </div>
                             </div>
