@@ -1174,6 +1174,8 @@ input:required {
   position: relative;
   z-index: 1;
   background-color: #FFFFFF; }
+  .about-us-countdown-area .about-thumb{
+    text-align: center; }
   .about-us-countdown-area .about-content-text h6 {
     font-size: 14px;
     font-weight: 500;
@@ -1381,6 +1383,9 @@ input:required {
 .our-speaker-area {
   position: relative;
   z-index: 1; }
+  .our-speaker-area h4{
+    color: #0179BF;
+  }
   .our-speaker-area .row {
     margin-left: -20px;
     margin-right: -20px; }
@@ -1568,7 +1573,8 @@ input:required {
   margin-bottom: 70px; }
   .single-blog-area .single-blog-thumb {
     border-radius: 10px 10px 0 0;
-    overflow: hidden; }
+    overflow: hidden;
+    height: 150px;}
     .single-blog-area .single-blog-thumb img {
       border-radius: 10px 10px 0 0;
       -webkit-transition-duration: 800ms;
@@ -1576,8 +1582,9 @@ input:required {
       transition-duration: 800ms; }
   .single-blog-area .single-blog-text {
     background-color: #ffffff;
-    padding: 30px 30px 50px 30px;
-    border-radius: 0 0 10px 10px; }
+    padding: 30px;
+    border-radius: 0 0 10px 10px;
+    min-height: 175px; }
     .single-blog-area .single-blog-text .blog-title {
       font-size: 20px;
       font-weight: 600;
@@ -1590,7 +1597,10 @@ input:required {
       .single-blog-area .single-blog-text .blog-title:hover, .single-blog-area .single-blog-text .blog-title:focus {
         color: #0179BF; }
     .single-blog-area .single-blog-text .post-meta {
-      margin-bottom: 15px; }
+      margin-top: 15px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      text-align: left; }
       .single-blog-area .single-blog-text .post-meta a {
         color: #7DBF4E;
         font-size: 14px;
@@ -2683,10 +2693,10 @@ input:required {
   color: black;
   margin-bottom: 30px; }
 
-.contact_input_area .form-group .form-control {
+.contact_input_area .form-group .form-control, .our-speaker-area .form-group .form-control {
   border-bottom: 1px solid #dbdcf1;
   color: #9293bc; }
-  .contact_input_area .form-group .form-control:active, .contact_input_area .form-group .form-control:focus {
+  .contact_input_area .form-group .form-control:active, .contact_input_area .form-group .form-control:focus, .our-speaker-area .form-group .form-control:active, .our-speaker-area .form-group .form-control:focus {
     border-bottom-color: #5d5e8d; }
 .contact_input_area .form-group textarea.form-control {
   height: 70px; }
