@@ -70,17 +70,17 @@
     <!-- Counter Up Area -->
     <div class="countdown-up-area">
         <div class="container">
-            <div class="row align-items-center">
+            <div class="row align-items-center countdown-box">
                 <div class="col-12 col-md-3">
                     <!-- Countdown Text -->
-                    <div class="countdown-content-text mb-100 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="countdown-content-text wow fadeInUp" data-wow-delay="300ms">
 
                         <h4>La conférence commence dans</h4>
                     </div>
                 </div>
 
                 <div class="col-12 col-md-9">
-                    <div class="countdown-timer mb-100 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="countdown-timer wow fadeInUp" data-wow-delay="300ms">
                         <div id="clock"></div>
                     </div>
                 </div>
