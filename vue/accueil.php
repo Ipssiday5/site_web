@@ -51,49 +51,49 @@
 
 <!-- About Us And Countdown Area Start -->
 <section class="about-us-countdown-area section-padding-100-0" id="about">
-    <div class="container">
-        <div class="row align-items-center">
-            <!-- About Content -->
-            <div class="col-12 col-md-6">
-                <div class="about-content-text mb-80">
-                    <h6 class="wow fadeInUp" data-wow-delay="300ms">About Conference</h6>
-                    <h3 class="wow fadeInUp" data-wow-delay="300ms">Welcome to the Project Management</h3>
-                    <p class="wow fadeInUp" data-wow-delay="300ms">The Project Management is a platform to learn expert techniques for building successful project teams, creating efficient plans and implementing effective tracking measures to ensure your projects come in on deadline and on budget. In one fast-paced, well-designed day, we’ll cover all the essential elements of project management.</p>
-                    <a href="#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Interested <i class="zmdi zmdi-long-arrow-right"></i></a>
-                </div>
-            </div>
-
-            <!-- About Thumb -->
-            <div class="col-12 col-md-6">
-                <div class="about-thumb mb-80 wow fadeInUp" data-wow-delay="300ms">
-                    <img src="img/bg-img/2.png" alt="">
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Counter Up Area -->
-    <div class="countdown-up-area">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-12 col-md-3">
-                    <!-- Countdown Text -->
-                    <div class="countdown-content-text mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <h6>Conference Date</h6>
-                        <h4>Count Every Second Until the Event</h4>
+                <!-- About Content -->
+                <div class="col-12 col-md-6">
+                    <div class="about-content-text mb-80">
+                        <h6 class="wow fadeInUp" data-wow-delay="300ms">A propos de la conférence</h6>
+                        <h3 class="wow fadeInUp" data-wow-delay="300ms">L'IPSSI-CONFDAY</h3>
+                        <p class="wow fadeInUp" data-wow-delay="300ms">Bienvenu à toi ! Si tu es partant(e) pour une conférence sur les nouvelles techno' , celle-ci est faite pour toi. L'IPSSI-CONFDAY est un Event parlant du machine learning ! Tu pourra y trouver des passionnés sur le sujet ainsi que plusieurs intervants qui pourront te partager leurs connaissances et conseils.</p>
+                        <a href="#" class="btn confer-btn mt-50 wow fadeInUp" data-wow-delay="300ms">Intéressé ? <i class="zmdi zmdi-long-arrow-right"></i></a>
                     </div>
                 </div>
 
-                <div class="col-12 col-md-9">
-                    <div class="countdown-timer mb-100 wow fadeInUp" data-wow-delay="300ms">
-                        <div id="clock"></div>
+                <!-- About Thumb -->
+                <div class="col-12 col-md-6">
+                    <div class="about-thumb mb-80 wow fadeInUp" data-wow-delay="300ms">
+                        <img src="img/bg-img/ipssilogo.png" alt="">
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- About Us And Countdown Area End -->
+
+ <!-- Counter Up Area -->
+ <div class="countdown-up-area">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-3">
+                        <!-- Countdown Text -->
+                        <div class="countdown-content-text mb-100 wow fadeInUp" data-wow-delay="300ms">
+                            
+                            <h4>La conférence commence dans :</h4>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-9">
+                        <div class="countdown-timer mb-100 wow fadeInUp" data-wow-delay="300ms">
+                            <div id="clock"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- About Us And Countdown Area End -->
 
 <!-- Our Speakings Area Start -->
 <section class="our-speaker-area bg-img bg-gradient-overlay section-padding-100-60" style="background-image: url(img/bg-img/3.jpg);">
@@ -102,8 +102,8 @@
             <!-- Heading -->
             <div class="col-12">
                 <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                    <p>Our Speakings</p>
-                    <h4>Who’s speaking</h4>
+                    
+                    <h4>Nos intervenants</h4>
                 </div>
             </div>
         </div>
@@ -548,84 +548,72 @@
 
 <!-- Our Ticket Pricing Table Area Start -->
 <section class="our-ticket-pricing-table-area bg-img bg-gradient-overlay section-padding-100-0 jarallax" style="background-image: url(img/bg-img/14.jpg);">
-    <div class="container">
-        <div class="row">
-            <!-- Heading -->
-            <div class="col-12">
-                <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                    <p>Choose a Ticket</p>
-                    <h4>Ticket Pricing</h4>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <!-- Single Ticket Pricing Table -->
-            <div class="col-12 col-lg-4">
-                <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                    <h6 class="ticket-plan">1 day pass</h6>
-                    <!-- Ticket Icon -->
-                    <div class="ticket-icon">
-                        <img src="img/core-img/p1.png" alt="">
-                    </div>
-                    <h2 class="ticket-price"><span>$</span>59</h2>
-                    <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
-                    <!-- Ticket Pricing Table Details -->
-                    <div class="ticket-pricing-table-details">
-                        <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                        <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                        <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                        <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                        <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
+        <div class="container">
+            <div class="row">
+                <!-- Heading -->
+                <div class="col-12">
+                    <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
+                        <h4>Choisi ton ticket !</h4>
                     </div>
                 </div>
             </div>
 
-            <!-- Single Ticket Pricing Table -->
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="single-ticket-pricing-table active text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                    <h6 class="ticket-plan">Full pass</h6>
-                    <!-- Ticket Icon -->
-                    <div class="ticket-icon">
-                        <img src="img/core-img/p2.png" alt="">
-                    </div>
-                    <h2 class="ticket-price"><span>$</span>99</h2>
-                    <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
-                    <!-- Ticket Pricing Table Details -->
-                    <div class="ticket-pricing-table-details">
-                        <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                        <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                        <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                        <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                        <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
+            <div class="row">
+                <!-- Single Ticket Pricing Table -->
+                <div class="col-12 col-lg-4">
+                    <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
+                        <h6 class="ticket-plan">Ticket visiteur</h6>
+                        <!-- Ticket Icon -->
+                        <div class="ticket-icon">
+                            <img src="img/core-img/p1.png" alt="">
+                        </div>
+                        <h2 class="ticket-price">8 €</h2>
+                        <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <!-- Ticket Pricing Table Details -->
+                        <div class="ticket-pricing-table-details">
+                            <p><i class="zmdi zmdi-check"></i> Accès complet</p>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <!-- Single Ticket Pricing Table -->
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
-                    <h6 class="ticket-plan">Group pass</h6>
-                    <!-- Ticket Icon -->
-                    <div class="ticket-icon">
-                        <img src="img/core-img/p3.png" alt="">
+                <!-- Single Ticket Pricing Table -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-ticket-pricing-table active text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
+                        <h6 class="ticket-plan">Ticket étudiant IPSSI</h6>
+                        <!-- Ticket Icon -->
+                        <div class="ticket-icon">
+                            <img src="img/core-img/p2.png" alt="">
+                        </div>
+                        <h2 class="ticket-price">GRATUIT</h2>
+                        <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <!-- Ticket Pricing Table Details -->
+                        <div class="ticket-pricing-table-details">
+                            <p><i class="zmdi zmdi-check"></i> Accès complet</p>
+                        </div>
                     </div>
-                    <h2 class="ticket-price"><span>$</span>199</h2>
-                    <a href="#" class="btn confer-btn w-100 mb-30">Get Tickets <i class="zmdi zmdi-long-arrow-right"></i></a>
-                    <!-- Ticket Pricing Table Details -->
-                    <div class="ticket-pricing-table-details">
-                        <p><i class="zmdi zmdi-check"></i> One Day Conference Ticket</p>
-                        <p><i class="zmdi zmdi-check"></i> Coffee-break</p>
-                        <p><i class="zmdi zmdi-check"></i> Lunch and Networking</p>
-                        <p><i class="zmdi zmdi-check"></i> Keynote talk</p>
-                        <p><i class="zmdi zmdi-check"></i> Talk to the Editors Session</p>
+                </div>
+
+                <!-- Single Ticket Pricing Table -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-ticket-pricing-table text-center mb-100 wow fadeInUp" data-wow-delay="300ms">
+                        <h6 class="ticket-plan">Ticket étudiants</h6>
+                        <!-- Ticket Icon -->
+                        <div class="ticket-icon">
+                            <img src="img/core-img/p3.png" alt="">
+                        </div>
+                        <h2 class="ticket-price">5 €</h2>
+                        <a href="#" class="btn confer-btn w-100 mb-30">Faire sa réservation <i class="zmdi zmdi-long-arrow-right"></i></a>
+                        <!-- Ticket Pricing Table Details -->
+                        <div class="ticket-pricing-table-details">
+                            <p><i class="zmdi zmdi-check"></i> Accès complet</p>
+                           
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- Our Ticket Pricing Table Area End -->
+    </section>
+    <!-- Our Ticket Pricing Table Area End -->
 
 <!-- Our Sponsor And Client Area Start -->
 <section class="our-sponsor-client-area section-padding-100">
@@ -678,262 +666,131 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Our client area -->
-            <div class="col-12">
-                <div class="our-client-area mt-100 wow fadeInUp" data-wow-delay="300ms">
-                    <!-- client Slider -->
-                    <div class="client-area owl-carousel">
-                        <!-- Single client Slider -->
-                        <div class="single-client-content">
-                            <!-- Single client Text -->
-                            <div class="single-client-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-                                <!-- Single client Thumb and info -->
-                                <div class="single-client-thumb-info d-flex align-items-center">
-                                    <!-- Single client Thumb -->
-                                    <div class="single-client-thumb">
-                                        <img src="img/bg-img/15.jpg" alt="">
-                                    </div>
-                                    <!-- Single client Info -->
-                                    <div class="client-info">
-                                        <h6>Maria Hernandez</h6>
-                                        <p>UX Manager</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single client Icon -->
-                            <div class="client-icon">
-                                <i class="zmdi zmdi-quote"></i>
-                            </div>
-                        </div>
-
-                        <!-- Single client Slider -->
-                        <div class="single-client-content">
-                            <!-- Single client Text -->
-                            <div class="single-client-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-                                <!-- Single client Thumb and info -->
-                                <div class="single-client-thumb-info d-flex align-items-center">
-                                    <!-- Single client Thumb -->
-                                    <div class="single-client-thumb">
-                                        <img src="img/bg-img/16.jpg" alt="">
-                                    </div>
-                                    <!-- Single client Info -->
-                                    <div class="client-info">
-                                        <h6>Jacqueline Myers</h6>
-                                        <p>UX Manager</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single client Icon -->
-                            <div class="client-icon">
-                                <i class="zmdi zmdi-quote"></i>
-                            </div>
-                        </div>
-
-                        <!-- Single client Slider -->
-                        <div class="single-client-content">
-                            <!-- Single client Text -->
-                            <div class="single-client-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-                                <!-- Single client Thumb and info -->
-                                <div class="single-client-thumb-info d-flex align-items-center">
-                                    <!-- Single client Thumb -->
-                                    <div class="single-client-thumb">
-                                        <img src="img/bg-img/15.jpg" alt="">
-                                    </div>
-                                    <!-- Single client Info -->
-                                    <div class="client-info">
-                                        <h6>Maria Hernandez</h6>
-                                        <p>UX Manager</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Single client Icon -->
-                            <div class="client-icon">
-                                <i class="zmdi zmdi-quote"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </section>
 <!-- Our Sponsor And Client Area End -->
 
-<!-- Our Blog Area Start -->
-<section class="our-blog-area bg-img bg-gradient-overlay section-padding-100-60" style="background-image: url(img/bg-img/17.jpg);">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <!-- Heading -->
-                <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
-                    <p>Our Blog</p>
-                    <h4>Latest news</h4>
-                </div>
-            </div>
-
-            <!-- Single Blog Area -->
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
-                    <!-- Single blog Thumb -->
-                    <div class="single-blog-thumb">
-                        <img src="img/bg-img/18.jpg" alt="">
+    <!-- Our Blog Area Start -->
+    <section class="our-blog-area bg-img bg-gradient-overlay section-padding-100-60" style="background-image: url(img/bg-img/groupe.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <!-- Heading -->
+                    <div class="section-heading text-center wow fadeInUp" data-wow-delay="300ms">
+                      
+                        <h4>Site créé en collaboration avec l'école ipssi et ses étudiants</h4>
                     </div>
-                    <div class="single-blog-text text-center">
-                        <a class="blog-title" href="#">Street Food Convention</a>
-                        <!-- Post Meta -->
-                        <div class="post-meta">
-                            <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i> January 14, 2019</a>
-                            <a class="post-author" href="#"><i class="zmdi zmdi-account"></i> Laura Green</a>
+                </div>
+
+                <!-- Single Blog Area -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
+                        <!-- Single blog Thumb -->
+                        <div class="single-blog-thumb">
+                            <img src="img/bg-img/DEVS.jpg" alt="">
                         </div>
-                        <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
-                    </div>
-                    <div class="blog-btn">
-                        <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Single Blog Area -->
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
-                    <!-- Single blog Thumb -->
-                    <div class="single-blog-thumb">
-                        <img src="img/bg-img/19.jpg" alt="">
-                    </div>
-                    <div class="single-blog-text text-center">
-                        <a class="blog-title" href="#">Tedx Moscow Conference</a>
-                        <!-- Post Meta -->
-                        <div class="post-meta">
-                            <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
-                            <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
-                        </div>
-                        <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
-                    </div>
-                    <div class="blog-btn">
-                        <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Single Blog Area -->
-            <div class="col-12 col-md-6 col-lg-4">
-                <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
-                    <!-- Single blog Thumb -->
-                    <div class="single-blog-thumb">
-                        <img src="img/bg-img/20.jpg" alt="">
-                    </div>
-                    <div class="single-blog-text text-center">
-                        <a class="blog-title" href="#">Los Angeles Institute</a>
-                        <!-- Post Meta -->
-                        <div class="post-meta">
-                            <a class="post-date" href="#"><i class="zmdi zmdi-alarm-check"></i>January 14, 2019</a>
-                            <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Laura Green</a>
-                        </div>
-                        <p>Street Food Convention will showcase products like Packed food, beef and lamb, street food.</p>
-                    </div>
-                    <div class="blog-btn">
-                        <a href="#"><i class="zmdi zmdi-long-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<!-- Our Blog Area End -->
-
-<!-- Contact Area Start -->
-<section class="contact-our-area section-padding-100-0">
-    <div class="container">
-        <div class="row">
-            <!-- Heading -->
-            <div class="col-12">
-                <div class="section-heading-2 text-center wow fadeInUp" data-wow-delay="300ms">
-                    <p>Have Question?</p>
-                    <h4>Contact us</h4>
-                </div>
-            </div>
-        </div>
-
-        <div class="row justify-content-between">
-            <div class="col-12 col-sm-3">
-                <div class="contact-information mb-100">
-                    <!-- Single Contact Info -->
-                    <div class="single-contact-info wow fadeInUp" data-wow-delay="300ms">
-                        <p>Address:</p>
-                        <h6>184 Main Collins Street</h6>
-                    </div>
-                    <!-- Single Contact Info -->
-                    <div class="single-contact-info wow fadeInUp" data-wow-delay="300ms">
-                        <p>Phone:</p>
-                        <h6>(226) 446 9371</h6>
-                    </div>
-                    <!-- Single Contact Info -->
-                    <div class="single-contact-info wow fadeInUp" data-wow-delay="300ms">
-                        <p>Email:</p>
-                        <h6>confer@gmail.com</h6>
-                    </div>
-                    <!-- Single Contact Info -->
-                    <div class="single-contact-info wow fadeInUp" data-wow-delay="300ms">
-                        <p>Website:</p>
-                        <h6>www.confer.com</h6>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-sm-8">
-                <!-- Contact Form -->
-                <div class="contact_from_area mb-100 clearfix wow fadeInUp" data-wow-delay="300ms">
-                    <div class="contact_form">
-                        <form action="mail.php" method="post" id="main_contact_form">
-                            <div class="contact_input_area">
-                                <div id="success_fail_info"></div>
-                                <div class="row">
-                                    <!-- Form Group -->
-                                    <div class="col-12 col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" class="form-control mb-30" name="name" id="name" placeholder="Your Name">
-                                        </div>
-                                    </div>
-                                    <!-- Form Group -->
-                                    <div class="col-12 col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" class="form-control mb-30" name="name" id="name2" placeholder="Last Name">
-                                        </div>
-                                    </div>
-                                    <!-- Form Group -->
-                                    <div class="col-12 col-lg-6">
-                                        <div class="form-group">
-                                            <input type="email" class="form-control mb-30" name="email" id="email" placeholder="E-mail">
-                                        </div>
-                                    </div>
-                                    <!-- Form Group -->
-                                    <div class="col-12 col-lg-6">
-                                        <div class="form-group">
-                                            <input type="text" class="form-control mb-30" name="subject" id="subject" placeholder="Your Number">
-                                        </div>
-                                    </div>
-                                    <!-- Form Group -->
-                                    <div class="col-12">
-                                        <div class="form-group">
-                                            <textarea name="message" class="form-control mb-30" id="message" cols="30" rows="6" placeholder="Your Message *"></textarea>
-                                        </div>
-                                    </div>
-                                    <!-- Button -->
-                                    <div class="col-12">
-                                        <button type="submit" class="btn confer-btn">Send Message <i class="zmdi zmdi-long-arrow-right"></i></button>
-                                    </div>
-                                </div>
+                        <div class="single-blog-text text-center">
+                            <a class="blog-title" href="#">Les développeurs</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Chin-Hung</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Abdou</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Nour</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Louis</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Adrien</a>   
+                                
                             </div>
-                        </form>
+                         </div>
                     </div>
+                </div>
+
+                <!-- Single Blog Area -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
+                        <!-- Single blog Thumb -->
+                        <div class="single-blog-thumb">
+                            <img src="img/bg-img/DEVOPS.png" alt="">
+                        </div>
+                        <div class="single-blog-text text-center">
+                            <a class="blog-title" href="#">Les Devops</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Thomas</a>   
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Lenny</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Vincent</a>
+                                <p> </p>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Guillaume</a>
+                            </div>
+                         </div>
+                    </div>
+                </div>
+
+                <!-- Single Blog Area -->
+                <div class="col-12 col-md-6 col-lg-4">
+                    <div class="single-blog-area wow fadeInUp" data-wow-delay="300ms">
+                        <!-- Single blog Thumb -->
+                        <div class="single-blog-thumb">
+                            <img src="img/bg-img/DM.jpg" alt="">
+                        </div>
+                        <div class="single-blog-text text-center">
+                            <a class="blog-title" href="#">Les DM</a>
+                            <!-- Post Meta -->
+                            <div class="post-meta">
+                                
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Elodi</a>
+                                <a class="post-author" href="#"><i class="zmdi zmdi-account"></i>Chloé</a>
+                            </div>
+                            <p> </p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- Our Blog Area End -->
+
+<!-- Footer Area Start -->
+<footer class="footer-area bg-img bg-overlay-2 section-padding-100-0">
+        <!-- Main Footer Area -->
+        <div class="main-footer-area">
+            <div class="container">
+                <div class="row">
+                    <!-- Single Footer Widget Area -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget mb-60 wow fadeInUp" data-wow-delay="300ms">
+                            <!-- Footer Logo -->
+                            <a href="#" class="footer-logo"><img src="img/core-img/logo2.png" alt=""></a>
+                            <p>Pour être à jour sur toutes nos actualités, suivez-nous sur les réseaux :</p>
+
+                            <!-- Social Info -->
+                            <div class="social-info">
+                                <a href="https://www.facebook.com/ecoleipssi/"><i class="zmdi zmdi-facebook"></i></a>
+                                <a href="https://www.pinterest.fr/ecole_ipssi/"><i class="zmdi zmdi-instagram"></i></a>
+                                <a href="https://twitter.com/ecole_ipssi"><i class="zmdi zmdi-twitter"></i></a>
+                                <a href="https://fr.linkedin.com/school/ip-formation/"><i class="zmdi zmdi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Single Footer Widget Area -->
+                    <div class="col-12 col-sm-6 col-lg-3">
+                        <div class="single-footer-widget mb-60 wow fadeInUp" data-wow-delay="300ms">
+                            <!-- Widget Title -->
+                            <h5 class="widget-title">Contact</h5>
+
+                            <!-- Contact Area -->
+                            <div class="footer-contact-info">
+                                <p><i class="zmdi zmdi-map"></i> 25 rue Claude Tillier – 75012 Paris</p>
+                                <p><i class="zmdi zmdi-phone"></i>01 55 43 26 65</p>
+                                <p><i class="zmdi zmdi-email"></i> communication@ecole-ipssi.com</p>
+                                <p><i class="zmdi zmdi-globe"></i> https://www.ecole-ipssi.com/</p>
+                            </div>
+                        </div>
+                    </div>
+                  </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- Contact Area End -->
+
