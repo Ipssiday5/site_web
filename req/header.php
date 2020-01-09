@@ -50,17 +50,9 @@
                         <div class="classynav">
                             <ul id="nav">
                                 <li class="active"><a href="index.php?go=accueil">Accueil</a></li>
-                                <li><a href="#"> Les IA</a>
-                                    <ul class="dropdown" style=" white-space: nowrap; ">
-                                        <li><a href="index.php?go=accueil">- Accueil </a></li>
-                                        <li><a href="index.php?go=sante">- L'IA et Santé</a></li>
-                                        <li><a href="index.php?go=militaire">- L'IA Militaire</a></li>
-                                        <li><a href="index.php?go=transport">- L'IA Industrie</a></li>
-                                        <li><a href="index.php?go=ticket">- Les Tickets</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="index.php?go=speakers">Speakears</a></li>
-                                <li><a href="index.php?go=blog">Blog</a></li>
+                                <li><a href="index.php?go=IA_presentation">L'IA</a></li>
+                                <li><a href="index.php?go=reservation">Reservation</a></li>
+                                <li><a href="index.php?go=aboutipssi">A propos de l'ipssi</a></li>
                                 <li><a href="index.php?go=contact">Contact</a></li>
                             </ul>
 

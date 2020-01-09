@@ -1,9 +1,5 @@
 <?php
 
-
-
-
-
 function getViews($page){
   if(file_exists("vue/".$page.".php")){
     include("vue/".$page.".php");
@@ -12,7 +8,6 @@ function getViews($page){
   }
 
 }
-
 
 function pageIntrouvable(){
   include("vue/404.php");
